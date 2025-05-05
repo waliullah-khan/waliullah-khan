@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/waliullah-khan/stats)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/waliullah-khan/private-stats)
 
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/waliullah-khan/contributions)
 
