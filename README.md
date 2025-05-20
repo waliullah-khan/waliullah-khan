@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f6194849-224b-48d5-aba3-19556fa5f9e0)
 
 # 💫 About Me:
-Transforming insights into impact with experience across AI, product analytics, and digital innovation in global markets.
+Transforming insights into impact with experience across AI, product analytics, and digital innovation in global markets.I am building data-driven products that transform businesses through intelligent automation, crafting scalable AI workflows that drive operational efficiency, and delivering measurable impact across tech ecosystems, retail analytics, and digital platforms. Passionate about turning complex technical challenges into elegant solutions that create value at the intersection of business strategy and emerging technology.
 
 
 ## 🌐 Socials:
