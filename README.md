@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building intelligent systems that scale | Turning data into actionable insights | Bridging the gap between AI research and practical implementation
+Transforming insights into impact with experience across AI, product analytics, and digital innovation in global markets.
 
 
 ## 🌐 Socials:
