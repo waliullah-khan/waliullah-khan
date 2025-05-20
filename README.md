@@ -1,10 +1,3 @@
 ## Hi there 👋
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/waliullah-khan/contributions)
-
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/waliullah-khan/highlights)
-
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/waliullah-khan/archtype)
-
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/waliullah-khan/quirk)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/waliullah-khan/langs)](https://githubtrends.io)
