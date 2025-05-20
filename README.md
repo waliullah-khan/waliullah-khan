@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f6194849-224b-48d5-aba3-19556fa5f9e0)
+
 # 💫 About Me:
 Transforming insights into impact with experience across AI, product analytics, and digital innovation in global markets.
 
